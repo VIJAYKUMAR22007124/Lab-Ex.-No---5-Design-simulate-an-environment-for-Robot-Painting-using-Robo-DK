@@ -6,8 +6,6 @@ To design a and simulate the painting environment for a serial manipluator and t
 ## Software  Required:
  
   Robodk 
-## Theory
- 
 
 ## Procedure
 New project
