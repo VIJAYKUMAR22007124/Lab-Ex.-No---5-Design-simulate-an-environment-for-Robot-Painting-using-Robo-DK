@@ -243,4 +243,4 @@ RegisterNumber:  212222230173
 
 
 ## RESULT:
-The painting environment for a serial manipluator has been created and the surface for the same has been thaught
+The painting environment for a serial manipluator has been created and the surface for the same has been thought.
