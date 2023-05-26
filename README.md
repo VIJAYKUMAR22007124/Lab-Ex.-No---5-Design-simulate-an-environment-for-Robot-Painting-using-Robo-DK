@@ -239,7 +239,9 @@ RegisterNumber:  212222230173
 
  
 ## Results of simulation :
- ![image](https://github.com/VIJAYKUMAR22007124/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/119657657/02d31ffb-528d-480e-91f0-aa1f99263152)
+
+![ex 5 photo kine](https://github.com/VIJAYKUMAR22007124/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/119657657/b7e4bec4-0629-47de-95aa-172ce5f477dd)
+
 
 
 ## RESULT:
